@@ -2,6 +2,7 @@
 Tour Management 
 *ABOUT*
 This web application allows tourists to schedule and manage specific events and tour/visit plans . They can select tour plans and make purchases according to their choices...
+
 A step by step guide to setup the Tour Management System Project made using ASP.NET Core MVC and XAMPP.
 1.Backend Setup
 Step 1: Install XAMPP.
