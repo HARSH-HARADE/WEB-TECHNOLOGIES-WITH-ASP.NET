@@ -5,6 +5,7 @@ This web application allows tourists to schedule and manage specific events and 
 
 A step by step guide to setup the Tour Management System Project made using ASP.NET Core MVC and XAMPP.
 1.Backend Setup
+
 Step 1: Install XAMPP.
 Goto -> https://www.apachefriends.org/download.html and download XAMPP if haven’t.
 Step 2: After you install XAMPP run it and start the Apache and MySQL.
@@ -14,6 +15,7 @@ Step 5: Click on “New” button on the left side below “phpMyAdmin” headin
 Step 6: In the “create database” textbox write “studentattendance” and click on create. It will create  a new Database named “studentattendance”. You can see it on the left side once you create it.
 Step 7: Select you database by clicking on it. After that you will see an option for “Import” at the top on the right side. Click it and select .sql file from the Student Attendance Management System folder. Scroll down and you will see a button labeled “import” click it and it will import all the tables in you database. 
 We are done with the database part.
+
 2.Frontend Setup 
 Step 1: Install Visual Studio if you haven’t from the given link. https://visualstudio.microsoft.com/
 Step 2: After installing open it and click on “Clone a repository”.
